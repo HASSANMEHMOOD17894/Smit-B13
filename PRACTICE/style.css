@@ -1,0 +1,18 @@
+.carosel{
+   
+}
+.head{
+    justify-self: center;
+}
+.video{
+    height: 150%;
+}
+.card1{
+    justify-content: space-around;
+    flex-direction: row;
+}
+.footer{
+    background-color: black;
+    
+    text-align: center;
+}
